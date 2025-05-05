@@ -1,0 +1,8 @@
+.carta{
+    display: flex;
+    align-items: center;
+    margin-left: 350px;
+    height: 190px;
+    width: 1200px;
+    margin-top: 390px;
+}

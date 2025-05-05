@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0%;
+    background-color: rgb(255, 255, 255);
+}
+
+header{
+    width: 100%;
+    height: 70px;
+    opacity: 100%;
+    box-shadow: 5px 5px 5px 5px #852c06;
+    display: flex;
+    justify-content:space-around;
+    padding-top: 20px;
+}
+
+
+.textotitulo{
+color: #852c06;
+font-family: Arial, Helvetica, sans-serif;
+font-size:xx-large;
+margin-top: 5px;
+
+}
+
+.button{
+    background-color: transparent;
+    margin-top: 10px;
+}
+
+.ingreso{
+    color: black;
+    font-size: 20px;
+    border: 1px solid gray;
+    padding:10px;
+    text-decoration: none;
+}
+
+.ingreso:hover{
+    background-color: gray;
+    font-size: 20px;
+    border: 1px solid gray;
+    padding:10px;
+}
+
+.prueba{
+    width: 100%;
+    height: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.prueba:hover{
+    width: 100%;
+    height: 40px;
+
+}
+
+.secciones{
+margin-right: 35px;
+font-size: 20px;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+hr{
+    height: 2px;
+    background-color: #852c06;
+}
+
+nav li{
+    display: inline;
+}
+
+nav a{
+    text-decoration: none;
+    color: #852c06;
+    font-size: 30px;
+}
+
+nav a:hover{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+} 
+.principal{
+    width: 100%;
+    height: 600;
+    background-color: #852c06;
+}
